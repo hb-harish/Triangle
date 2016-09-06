@@ -18,6 +18,8 @@ public class Triangle {
 	    	System.out.println("Right Angle Triangle");
 	    else if (num1==num2 && num3==num2)
 	    	System.out.println("Equilateral Triangle");
+	    else
+	    	System.out.println("Normal Triangle");
 		// TODO Auto-generated method stub
 
 	}
